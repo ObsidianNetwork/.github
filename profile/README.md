@@ -1,12 +1,30 @@
-## Hi there 👋
+# Obsidian Network
 
-<!--
+**Coming Soon**
 
-**Here are some ideas to get you started:**
+We're building something special for the gaming community.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## What's Coming
+
+Enterprise-grade game server hosting with unmatched performance, DDoS protection, and 24/7 expert support. Built by gamers, for gamers.
+
+### Planned Features
+
+- Instant server deployment
+- DDoS protection
+- NVMe storage for lightning-fast performance
+- 24/7 expert support
+- Support for Minecraft, ARK, Rust, Valheim, and more
+
+## Stay Updated
+
+We're currently in development and preparing for launch. Follow this organization to be notified when we go live.
+
+- **Website**: [obsidiannetwork.au](https://obsidiannetwork.au)
+
+---
+
+<p align="center">
+  <strong>Obsidian Network</strong><br>
+  <em>Launching Soon</em>
+</p>
